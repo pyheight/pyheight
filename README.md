@@ -9,9 +9,11 @@
 
 # 👀我的项目
 
-- [**ttk file explorer**](https://github.com/pyheight/ttk-file-explorer/)
-- [**官网**](https://pyheight.github.io/ttk-file-explorer/)
-- **这是一款基于**`Python`**的标准TkGUI工具包的接口**`tkinter`**的美化库**`ttkbootstrap`**开发的轻量级的Windows文件浏览软件。**
+[**ttk file explorer**](https://github.com/pyheight/ttk-file-explorer/)
+
+[**官网**](https://pyheight.github.io/ttk-file-explorer/)
+
+**这是一款基于**`Python`**的标准TkGUI工具包的接口**`tkinter`**的美化库**`ttkbootstrap`**开发的轻量级的Windows文件浏览软件。**
 
 # 🌱联系我
 
