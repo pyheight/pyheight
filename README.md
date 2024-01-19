@@ -23,3 +23,5 @@
 - [**CSDN**](https://blog.csdn.net/2302_82330415)
 
 感谢您对我项目的关注。如果您有任何问题或建议，欢迎通过上述方式与我联系。
+
+<p align="center">©2024 <a href="https://github.com/pyheight">pyheight</a>. All Rights Reserved.</p>
