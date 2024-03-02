@@ -11,7 +11,7 @@
 
 - [ttk file explorer](https://github.com/pyheight/ttk-file-explorer/)
 - [github-io](https://pyheight.github.io/ttk-file-explorer/)
-- This is a file manager, developed based on `tkinter` syntax and `ttkbootstrap` beautification libraries.
+- This is a lightweight file manager, developed based on `tkinter` syntax and `ttkbootstrap` beautification libraries.
 
 ## 🌱 How to contact me
 
