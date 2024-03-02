@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pyheight&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 💻 Programming enthusiasts.
-- 👨 I am a student living in Guangdong and try to develop small projects in my spare time.
+- 👨 I live in Guangdong, where I am a student by day and a programmer by night, and try to develop small projects in my spare time.
 - 😎 I'm passionate about `Python`programming and curious about new technologies. I always keep an open mind and am willing to share my knowledge and experience with others to grow together.
 - 🎨 I am currently studying, and I would like to thank all my friends who have supported me.
 
