@@ -1,19 +1,19 @@
-# 👋我是 pyheight 
+# 👋 I'm pyheight
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=pyheight&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- 💻编程爱好者。
-- 👨我是一名学生，住在广东，并在业余时间尝试开发一些小项目。
-- 😎我热衷于`Python`编程，对新技术充满好奇。我始终保持开放的心态，愿意与他人分享知识和经验，共同成长。
-- 🎨我目前正在学习中，感谢所有支持我的小伙伴们。
+- 💻 Programming enthusiasts.
+- 👨 I am a student living in Guangdong and try to develop small projects in my spare time.
+- 😎 I'm passionate about `Python`programming and curious about new technologies. I always keep an open mind and am willing to share my knowledge and experience with others to grow together.
+- 🎨 I am currently studying, and I would like to thank all my friends who have supported me.
 
-## 👀我的项目
+## 👀 My projects
 
 - [ttk file explorer](https://github.com/pyheight/ttk-file-explorer/)
-- [官网](https://pyheight.github.io/ttk-file-explorer/)
-- 这是一款文件管理器，基于`tkinter`语法和`ttkbootstrap`美化库开发。
+- [github-io](https://pyheight.github.io/ttk-file-explorer/)
+- This is a file manager, developed based on `tkinter` syntax and `ttkbootstrap` beautification libraries.
 
-## 🌱如何联系我
+## 🌱 How to contact me
 
 - [GitHub](https://github.com/pyheight)
 - [Email](mailto:276581780@qq.com)
