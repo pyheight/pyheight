@@ -17,5 +17,5 @@
 
 - [GitHub](https://github.com/pyheight)
 - [Email](mailto:276581780@qq.com)
-- [知乎](https://www.zhihu.com/people/height-8)
+- [Zhihu](https://www.zhihu.com/people/height-8)
 - [CSDN](https://blog.csdn.net/2302_82330415)
