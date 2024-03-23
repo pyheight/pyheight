@@ -1,6 +1,6 @@
 # 👋 I'm pyheight
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=pyheight&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="center" alt="" src="https://github-readme-stats.vercel.app/api?username=pyheight&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 💻 Programming enthusiasts.
 - 👨 I live in Guangdong, where I am a student by day and a programmer by night, and try to develop small projects in my spare time.
@@ -10,7 +10,7 @@
 ## 👀 My projects
 
 - [ttk file explorer](https://github.com/pyheight/ttk-file-explorer/)
-- [github-io](https://pyheight.github.io/ttk-file-explorer/)
+- [website](https://pyheight.github.io/ttk-file-explorer/)
 - This is a lightweight file manager, developed based on `tkinter` syntax and `ttkbootstrap` beautification libraries.
 - If it can help you, I would be grateful.
 
