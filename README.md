@@ -13,4 +13,4 @@
 - [Zhihu Homepage](https://www.zhihu.com/people/height-8)
 - [CSDN Blog](https://blog.csdn.net/2302_82330415)
 
- ![](https://count.getloli.com/get/@pyheight?theme=gelbooru)
+ ![](https://count.getloli.com/get/@pyheight?theme=rule34)
