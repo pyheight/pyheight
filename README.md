@@ -4,7 +4,7 @@
 ### 💻 About Me  
 [<img src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=for-the-badge&logo=dev.to">](https://github.com/pyheight)  
 [<img src="https://img.shields.io/badge/Location-Guangdong-green?style=for-the-badge&logo=googlemaps">](https://github.com/pyheight)  
-[<img src="https://img.shields.io/badge/Python-Lover-informational?style=for-the-badge&logo=python&logoColor=white">](https://github.com/pyheight)  
+[<img src="https://img.shields.io/badge/Python-Lover-informational?style=for-the-badge&logo=python">](https://github.com/pyheight)  
 [<img src="https://img.shields.io/badge/Tech-Curious-yellow?style=for-the-badge&logo=rss">](https://github.com/pyheight)
 
 ### 👀 My Projects
@@ -17,6 +17,6 @@
 [<img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github">](https://github.com/pyheight)  
 [<img src="https://img.shields.io/badge/Email-276581780%40qq.com-blue?style=social&logo=gmail">](mailto:276581780@qq.com)  
 [<img src="https://img.shields.io/badge/Zhihu-Homepage-blue?style=plastic&logo=zhihu">](https://www.zhihu.com/people/height-8)  
-[<img src="https://img.shields.io/badge/CSDN-Blog-orange?style=plastic&logo=blogger&logoColor=white">](https://blog.csdn.net/2302_82330415)
+[<img src="https://img.shields.io/badge/CSDN-Blog-orange?style=plastic&logo=blogger&logoColor=orange">](https://blog.csdn.net/2302_82330415)
 
 ![](https://count.getloli.com/get/@pyheight?theme=rule34)
