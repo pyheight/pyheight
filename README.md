@@ -5,7 +5,7 @@
 [<img src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=for-the-badge&logo=dev.to">](https://github.com/pyheight)  
 [<img src="https://img.shields.io/badge/Location-Guangdong-green?style=for-the-badge&logo=googlemaps">](https://github.com/pyheight)  
 [<img src="https://img.shields.io/badge/Python-Lover-informational?style=for-the-badge&logo=python&logoColor=white">](https://github.com/pyheight)  
-[<img src="https://img.shields.io/badge/Curious%20about-New%20Technologies-yellow?style=for-the-badge&logo=rss">](https://github.com/pyheight)  
+[<img src="https://img.shields.io/badge/Tech-Curious-yellow?style=for-the-badge&logo=rss">](https://github.com/pyheight)
 
 ### 👀 My Projects
 **ttk file explorer**
