@@ -17,11 +17,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=tokyonight" alt="">
 </div>
 
-<h3>My Projects</h3>  
+<h3>👀My Projects</h3>  
 <h4>ttk file explorer</h4>
 <a href="https://github.com/pyheight/ttk-file-explorer/">Repository</a> | <a href="https://pyheight.github.io/ttk-file-explorer/">Website</a>    
 
-<h3>How to Contact Me</h3>  
+<h3>🌱How to Contact Me</h3>  
 <div align="center">    
 <a href="https://github.com/pyheight"> <img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github" alt="GitHub"></a>    
 <a href="mailto:276581780@qq.com"><img src="https://img.shields.io/badge/Email-276581780%40qq.com-blue?style=social&logo=gmail" alt="Email"></a>    
