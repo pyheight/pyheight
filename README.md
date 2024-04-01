@@ -4,7 +4,6 @@
 
 <div align="center">  
 <img src="https://streak-stats.demolab.com?user=pyheight&theme=iceberg&hide_border=%E7%9C%9F%E5%AE%9E%E7%9A%84" alt="GitHub Streak">  
-  
 <img src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=tokyonight" alt="GitHub Stats">
 </div>
 
@@ -19,7 +18,6 @@
 <h3>My Projects</h3>  
 <ul>    
 <a href="https://github.com/pyheight/ttk-file-explorer/">GitHub Repository </a> | <a href="https://pyheight.github.io/ttk-file-explorer/">Website</a>    
-</li> 
 </ul>  
 
 <h3>How to Contact Me</h3>  
@@ -30,6 +28,7 @@
 <a href="https://blog.csdn.net/2302_82330415"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=plastic&logo=blogger&logoColor=orange" alt="CSDN Blog"></a>  
 </div>
 </details>
+
 <div align="center">  
 <img src="https://count.getloli.com/get/@pyheight?theme=rule34" alt="Visitor Count">
 </div>
