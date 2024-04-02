@@ -31,4 +31,7 @@
 
 </details>
 
-<img src="https://count.getloli.com/get/@pyheight?theme=rule34" alt="" align="center">
+<div align="center">
+<img src="https://count.getloli.com/get/@pyheight?theme=rule34" alt="">
+</div>
+
