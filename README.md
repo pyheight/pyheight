@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/Python-Lover-informational?style=for-the-badge&logo=python" alt="Python Lover">    
 <img src="https://img.shields.io/badge/Tech-Curious-yellow?style=for-the-badge&logo=rss" alt="Tech Curious"> </div>  
 
-<p>I'm a passionate programmer with a strong interest in Python and technology.</p>  
+<p>Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</p>  
 
 <details close align="center">  
 <summary>more</summary>  
