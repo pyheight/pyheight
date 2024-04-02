@@ -5,7 +5,7 @@
 <img class="_double-img_nhcgr_72" src="https://img.shields.io/badge/Location-Guangdong-green?style=for-the-badge&logo=googlemaps" alt="Location Guangdong" style="border-width:0" />
 <img class="_double-img_nhcgr_72" src="https://img.shields.io/badge/Python-Lover-informational?style=for-the-badge&logo=python" alt="Python Lover" style="border-width:0" />
 <img class="_double-img_nhcgr_72" src="https://img.shields.io/badge/Tech-Curious-yellow?style=for-the-badge&logo=rss" alt="Tech Curious" style="border-width:0" />
-
+<br>
 <b>Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</b>
 
 </div>
