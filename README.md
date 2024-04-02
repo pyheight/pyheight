@@ -1,19 +1,19 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">Hello, I'm pyheight</h2>
 
 <div align="center">    
-<img src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=for-the-badge&logo=dev.to" alt="Programming Enthusiasts">    
-<img src="https://img.shields.io/badge/Location-Guangdong-green?style=for-the-badge&logo=googlemaps" alt="Location Guangdong">    
-<img src="https://img.shields.io/badge/Python-Lover-informational?style=for-the-badge&logo=python" alt="Python Lover">    
-<img src="https://img.shields.io/badge/Tech-Curious-yellow?style=for-the-badge&logo=rss" alt="Tech Curious"> </div>  
 
-<p>Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</p>  
+![Programming Enthusiasts](https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=for-the-badge&logo=dev.to) ![Location Guangdong](https://img.shields.io/badge/Location-Guangdong-green?style=for-the-badge&logo=googlemaps) ![Python Lover](https://img.shields.io/badge/Python-Lover-informational?style=for-the-badge&logo=python) ![Tech Curious](https://img.shields.io/badge/Tech-Curious-yellow?style=for-the-badge&logo=rss)
+
+<p>Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</p>
+
+</div>
 
 <details close align="center">  
 <summary>more</summary>  
 <br>
+
 <div align="center">  
 <img src="https://streak-stats.demolab.com?user=pyheight&theme=iceberg&hide_border=%E7%9C%9F%E5%AE%9E%E7%9A%84" alt="GitHub Streak">  
-  
 <img src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=tokyonight" alt="">
 </div>
 
@@ -28,6 +28,7 @@
 <a href="https://www.zhihu.com/people/height-8"><img src="https://img.shields.io/badge/Zhihu-Homepage-blue?style=plastic&logo=zhihu" alt="Zhihu"></a>    
 <a href="https://blog.csdn.net/2302_82330415"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=plastic&logo=blogger&logoColor=orange" alt="CSDN Blog"></a>  
 </div>
+
 </details>
 
 <img src="https://count.getloli.com/get/@pyheight?theme=rule34" alt="" align="center">
