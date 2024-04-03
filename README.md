@@ -1,10 +1,10 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36">Hello, I'm pyheight</h2>
 
 <div align="center">    
-<img src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?ble-img_nhcgr_72" src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=for-the-badge&logo=dev.to" alt="Programming Enthusiasts" style="border-width:0" />
-<img class="_double-img_nhcgr_72" src="https://img.shields.io/badge/Location-Guangdong-green?style=for-the-badge&logo=googlemaps" alt="Location Guangdong" style="border-width:0" />
-<img class="_double-img_nhcgr_72" src="https://img.shields.io/badge/Python-Lover-informational?style=for-the-badge&logo=python" alt="Python Lover" style="border-width:0" />
-<img class="_double-img_nhcgr_72" src="https://img.shields.io/badge/Tech-Curious-yellow?style=for-the-badge&logo=rss" alt="Tech Curious" style="border-width:0" />
+<img src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=flat-square&logo=dev.to" alt="Programming Enthusiasts"/>
+<img src="https://img.shields.io/badge/Location-Guangdong-green?style=flat-square&logo=googlemaps" alt="Location Guangdong"/>
+<img src="https://img.shields.io/badge/Python-Lover-informational?style=flat-square&logo=python" alt="Python Lover"/>
+<img src="https://img.shields.io/badge/Tech-Curious-yellow?style=flat-square&logo=rss" alt="Tech Curious"/>
 <br>
 <b>Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</b>
 
@@ -27,8 +27,8 @@
 <div align="center">    
 <a href="https://github.com/pyheight"> <img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github" alt="GitHub"></a>    
 <a href="mailto:276581780@qq.com"><img src="https://img.shields.io/badge/Email-276581780%40qq.com-blue?style=social&logo=gmail" alt="Email"></a>    
-<a href="https://www.zhihu.com/people/height-8"><img src="https://img.shields.io/badge/Zhihu-Homepage-blue?style=plastic&logo=zhihu" alt="Zhihu"></a>    
-<a href="https://blog.csdn.net/2302_82330415"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=plastic&logo=blogger&logoColor=orange" alt="CSDN Blog"></a>  
+<a href="https://www.zhihu.com/people/height-8"><img src="https://img.shields.io/badge/Zhihu-Homepage-blue?style=flat-square&logo=zhihu" alt="Zhihu"></a>    
+<a href="https://blog.csdn.net/2302_82330415"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=flat-squarelogo=blogger&logoColor=orange" alt="CSDN Blog"></a>  
 </div>
 
 </details>
