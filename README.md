@@ -28,7 +28,7 @@
 <a href="https://github.com/pyheight"> <img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github" alt="GitHub"></a>    
 <a href="mailto:276581780@qq.com"><img src="https://img.shields.io/badge/Email-276581780%40qq.com-blue?style=social&logo=gmail" alt="Email"></a>    
 <a href="https://www.zhihu.com/people/height-8"><img src="https://img.shields.io/badge/Zhihu-Homepage-blue?style=flat-square&logo=zhihu" alt="Zhihu"></a>    
-<a href="https://blog.csdn.net/2302_82330415"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=flat-squarelogo=blogger&logoColor=orange" alt="CSDN Blog"></a>  
+<a href="https://blog.csdn.net/2302_82330415"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=flat-square&logo=blogger&logoColor=orange" alt="CSDN Blog"></a>  
 </div>
 
 </details>
