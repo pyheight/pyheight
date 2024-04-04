@@ -28,9 +28,7 @@
 <a href="https://www.zhihu.com/people/height-8"><img src="https://img.shields.io/badge/Zhihu-Homepage-blue?style=flat-square&logo=zhihu" alt="Zhihu"></a>    
 <a href="https://blog.csdn.net/2302_82330415"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=flat-square&logo=blogger&logoColor=orange" alt="CSDN Blog"></a>  
 </div>
-
 </details>
-
 <div align="center">
 <img src="https://count.getloli.com/get/@pyheight?theme=rule34" alt="">
 </div>
