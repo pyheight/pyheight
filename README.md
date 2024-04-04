@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Tech-Curious-yellow?style=flat-square&logo=rss" alt="Tech Curious"/>
 <br>
 <b>Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</b>
+
 </div>
 
 <details close align="center">  
