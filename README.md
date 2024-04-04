@@ -12,14 +12,13 @@
 
 <details close align="center">  
 <summary>look</summary>  
-
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=tokyonight" alt="">
 <img src="https://streak-stats.demolab.com?user=pyheight&theme=iceberg&hide_border=%E7%9C%9F%E5%AE%9E%E7%9A%84" alt="GitHub Streak">  
 </div>
-
 <h3>👀My Projects</h3>  
-<h4>ttk file explorer</h4>
+<b>ttk file explorer</b>
+  
 <a href="https://github.com/pyheight/ttk-file-explorer/">Repository</a> | <a href="https://pyheight.github.io/ttk-file-explorer/">Website</a>    
 
 <h3>🌱Contact Me</h3>  
