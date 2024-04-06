@@ -6,15 +6,14 @@
 <img src="https://img.shields.io/badge/Python-Lover-informational?style=flat-square&logo=python" alt="Python Lover"/>
 <img src="https://img.shields.io/badge/Tech-Curious-yellow?style=flat-square&logo=rss" alt="Tech Curious"/>
 <br>
-<b>Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</b>
 </div>
-<details close align="center">  
-<summary>look</summary>  
 <div align="center">  
 <img src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=react" alt="">
 <br>
-<img src="https://streak-stats.demolab.com?user=pyheight&theme=iceberg&hide_border=%E7%9C%9F%E5%AE%9E%E7%9A%84" alt="GitHub Streak">  
+<img src="https://streak-stats.demolab.com?user=pyheight&theme=react" alt="GitHub Streak">  
 </div>
+<b align="center">Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</b>
+<div align="center">
 <h3>👀My Projects</h3>  
 <b>ttk file explorer</b>
 <br>
@@ -26,7 +25,7 @@
 <a href="https://www.zhihu.com/people/height-8"><img src="https://img.shields.io/badge/Zhihu-Homepage-blue?style=flat-square&logo=zhihu" alt="Zhihu"></a>    
 <a href="https://blog.csdn.net/2302_82330415"><img src="https://img.shields.io/badge/CSDN-Blog-orange?style=flat-square&logo=blogger&logoColor=orange" alt="CSDN Blog"></a>  
 </div>
-</details>
+</div>
 <div align="center">
 <img src="https://count.getloli.com/get/@pyheight?theme=rule34" alt="">
 </div>
