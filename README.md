@@ -7,9 +7,7 @@
 <img src="https://img.shields.io/badge/Tech-Curious-yellow?style=flat-square&logo=rss" alt="Tech Curious"/>
 <br>
 <b>Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!</b>
-
 </div>
-
 <details close align="center">  
 <summary>look</summary>  
 <div align="center">  
@@ -18,9 +16,8 @@
 </div>
 <h3>👀My Projects</h3>  
 <b>ttk file explorer</b>
-  
+<br>
 <a href="https://github.com/pyheight/ttk-file-explorer/">Repository</a> | <a href="https://pyheight.github.io/ttk-file-explorer/">Website</a>    
-
 <h3>🌱Contact Me</h3>  
 <div align="center">    
 <a href="https://github.com/pyheight"> <img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github" alt="GitHub"></a>    
@@ -32,4 +29,3 @@
 <div align="center">
 <img src="https://count.getloli.com/get/@pyheight?theme=rule34" alt="">
 </div>
-
