@@ -8,7 +8,7 @@
 
 **Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!**
 
-## 👀My Projects  
+## 👀 My Projects  
 **ttk file explorer**  
 [Repository](https://github.com/pyheight/ttk-file-explorer/) | [Website](https://pyheight.github.io/ttk-file-explorer/)  
 
