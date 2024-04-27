@@ -5,8 +5,7 @@
 Python torments me a thousand times, but I treat it like my first love. 
 On the path of self-learning, the more I'm defeated, the more courageous I become!
 
-If you're here please give me stars ⭐ ,
-And don't forget to follow.
+If you're here please give me stars ⭐, and don't forget to follow.
 ```  
 
 ### 📈 My Stats
