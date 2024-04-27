@@ -2,9 +2,11 @@
 [<img src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=flat-square&logo=dev.to">](https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=flat-square&logo=dev.to)  [<img src="https://img.shields.io/badge/Location-Guangdong-green?style=flat-square&logo=googlemaps">](https://img.shields.io/badge/Location-Guangdong-green?style=flat-square&logo=googlemaps)  [<img src="https://img.shields.io/badge/Python-Lover-informational?style=flat-square&logo=python">](https://img.shields.io/badge/Python-Lover-informational?style=flat-square&logo=python)  [<img src="https://img.shields.io/badge/Tech-Curious-yellow?style=flat-square&logo=rss">](https://img.shields.io/badge/Tech-Curious-yellow?style=flat-square&logo=rss) 
  
 ```
-Python torments me a thousand times, but I treat it like my first love. On the path of self-learning, the more I'm defeated, the more courageous I become!
+Python torments me a thousand times, but I treat it like my first love. 
+On the path of self-learning, the more I'm defeated, the more courageous I become!
 
-If you're here please give me stars ⭐ And don't forget to follow.
+If you're here please give me stars ⭐ ,
+And don't forget to follow.
 ```  
 
 ### 📈 My Stats
