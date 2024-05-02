@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?logo=dev.to">](https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=flat-square&logo=dev.to)  [<img src="https://img.shields.io/badge/Location-Guangdong-green?logo=googlemaps">](https://img.shields.io/badge/Location-Guangdong-green?style=flat-square&logo=googlemaps)  [<img src="https://img.shields.io/badge/Python-Lover-informational?logo=python">](https://img.shields.io/badge/Python-Lover-informational?style=flat-square&logo=python)  [<img src="https://img.shields.io/badge/Tech-Curious-yellow?logo=rss">](https://img.shields.io/badge/Tech-Curious-yellow?style=flat-square&logo=rss) 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&multiline=true&repeat=%E7%9C%9F%E5%AE%9E%E7%9A%84&random=%E9%94%99%E8%AF%AF%E7%9A%84&width=435&lines=Python+torments+me+a+thousand+times%2C;but+I+treat+it+like+my+first+love.+)
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&repeat=false&random=false&width=435&lines=On+the+path+of+self-learning%2C+;the+more+I'm+defeated%2C+;the+more+courageous+I+become!)]
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=800&repeat=false&random=false&width=435&lines=On+the+path+of+self-learning%2C+;the+more+I'm+defeated%2C+;the+more+courageous+I+become!)
 
 ### 📈 My Stats
 
