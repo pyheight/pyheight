@@ -14,7 +14,7 @@ On the path of self-learning, the more I'm defeated, the more courageous I becom
 
 [<img src="https://streak-stats.demolab.com?user=pyheight&theme=react">](https://streak-stats.demolab.com?user=pyheight&theme=react)
 
-### 🧬 My Projects  
+### 📦 My Projects  
 
 **📂 ttk file explorer**
   
