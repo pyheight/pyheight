@@ -2,26 +2,6 @@
 
 [<img src="https://img.shields.io/badge/Programming-enthusiasts-blueviolet?logo=dev.to&style=flat-square">](https://img.shields.io/badge/Programming-enthusiasts-blueviolet?style=flat-square&logo=dev.to)  [<img src="https://img.shields.io/badge/Location-Guangdong-green?logo=googlemaps&style=flat-square">](https://img.shields.io/badge/Location-Guangdong-green?style=flat-square&logo=googlemaps)  [<img src="https://img.shields.io/badge/Python-Lover-informational?logo=python&style=flat-square">](https://img.shields.io/badge/Python-Lover-informational?style=flat-square&logo=python)  [<img src="https://img.shields.io/badge/Tech-Curious-yellow?logo=rss&style=flat-square">](https://img.shields.io/badge/Tech-Curious-yellow?style=flat-square&logo=rss)
 
-``` Python
-# My Journey of Self-Learning in Code
-
-def self_learning_courage(defeats):
-    """
-    Embody the spirit of turning every defeat into courage in the journey of self-learning.
-    
-    :param defeats: Number of setbacks encountered
-    :return: A string representing the level of courage gained
-    """
-    courage = "I become more courageous"
-    for _ in range(defeats):
-        courage += "!"
-    return courage
-
-# Display the courage gained from self-learning
-print(self_learning_courage(10))
-
-```
-
 ### 📈 My GitHub Stats
 [<img src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=react&show_icons=true">](https://github-readme-stats.vercel.app/api?username=pyheight&theme=react) [<img src="https://streak-stats.demolab.com?user=pyheight&theme=react">](https://streak-stats.demolab.com?user=pyheight&theme=react)
 
