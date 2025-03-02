@@ -16,16 +16,16 @@
 <br>
 
 <p align="center">
-    <img width="387" src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=react&show_icons=true&hide_border=true&hide_title=true&hide=contribs&show=reviews,discussions_started&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-    <img width="400" src="https://streak-stats.demolab.com?user=pyheight&theme=react&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <img width="387" src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=react&show_icons=true&hide_border=true&hide_title=true&hide=contribs&show=reviews,discussions_started&number_format=long&count_private=true" alt="Profile Stats"/>
+    <img width="400" src="https://streak-stats.demolab.com?user=pyheight&theme=react&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=pyheight&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="Activity Graph" title="Activity Graph" />
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=pyheight&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <p align="center">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=pyheight&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" alt="Profile Trophy" title="Profile Trophy" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=pyheight&no-bg=true&no-frame=true&theme=dark_lover&title=-MultiLanguage" alt="Profile Trophy"/>
 </p>
 
 <br>
@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&&section=footer&text=THE%20END&fontSize=85&fontAlign=50&fontAlignY=80&desc=Less%20is%20more.&descAlign=50&descSize=30&descAlignY=35&animation=twinkling&stroke=56bcd9" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&&section=footer&text=THE%20END&fontSize=85&fontAlign=50&fontAlignY=80&desc=Less%20is%20more.&descAlign=50&descSize=30&descAlignY=35&animation=twinkling&stroke=56bcd9" alt="The End"/>
 </p>
