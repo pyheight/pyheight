@@ -16,8 +16,8 @@
 <br>
 
 <p align="center">
-    <img width="484" src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=react&show_icons=true&hide_border=true&hide_title=true&hide=contribs&show=reviews,discussions_started&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
-    <img width="500" src="https://streak-stats.demolab.com?user=pyheight&theme=react&hide_border=true" alt="Streak Stats" title="Streak Stats" />
+    <img width="387" src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=react&show_icons=true&hide_border=true&hide_title=true&hide=contribs&show=reviews,discussions_started&number_format=long&count_private=true" alt="Profile Stats" title="Profile Stats" />
+    <img width="400" src="https://streak-stats.demolab.com?user=pyheight&theme=react&hide_border=true" alt="Streak Stats" title="Streak Stats" />
 </p>
 
 <p align="center">
