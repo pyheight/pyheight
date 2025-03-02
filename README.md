@@ -44,5 +44,5 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=200&&section=footer&text=THE%20END&fontSize=85&fontAlign=50&fontAlignY=80&desc=Less%20is%20more.&descAlign=50&descSize=30&descAlignY=35&animation=twinkling&stroke=56bcd9" alt="The End" title="The End"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&&section=footer&text=THE%20END&fontSize=85&fontAlign=50&fontAlignY=80&desc=Less%20is%20more.&descAlign=50&descSize=30&descAlignY=35&animation=twinkling&stroke=56bcd9" alt="The End" title="The End"/>
 </p>
