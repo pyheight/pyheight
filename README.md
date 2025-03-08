@@ -13,12 +13,21 @@
     <img src="https://img.shields.io/badge/Tech-Curious-f1c40f?logo=rss&style=for-the-badge" alt="Tech Curious">
 </p>
 
-<br>
-
-<p align="center">
-    <img width="387" src="https://github-readme-stats.vercel.app/api?username=pyheight&theme=react&show_icons=true&hide_border=true&hide_title=true&hide=contribs&show=reviews,discussions_started&number_format=long&count_private=true" alt="Profile Stats"/>
-    <img width="400" src="https://streak-stats.demolab.com?user=pyheight&theme=react&hide_border=true" alt="Streak Stats"/>
-</p>
+<table width="100%">
+  <tr>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=pyheight&hide_border=true&show_icons=true&hide_title=true&text_color=9f9f9f&bg_color=00000000"
+      />
+    </td>
+    <td>
+      <img
+        align="center"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pyheight&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
+      />
+    </td>
+</table>
 
 <p align="center">
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=pyheight&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" alt="Activity Graph"/>
