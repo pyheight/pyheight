@@ -45,8 +45,6 @@
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=pyheight&no-bg=true&no-frame=true&theme=dark_lover&title=-MultiLanguage" alt="Profile Trophy"/>
 </p>
 
-<br>
-
 <p align="center">
     <a href="https://github.com/pyheight">
         <img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github" alt="GitHub pyheight">
@@ -62,10 +60,8 @@
     </a>
 </p>
 
-<br>
-
 <p align="center">
-    <img width="450" src="https://count.getloli.com/get/@pyheight?theme=rule34" alt="Profile Views">
+    <img width="450" src="https://count.getloli.com/get/@pyheight?theme=random" alt="Profile Views">
 </p>
 
 <p align="center">
