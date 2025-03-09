@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&&section=header&text=Hi%20There&fontSize=85&fontAlign=50&fontAlignY=30&desc=I%20am%20pyheight.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling&stroke=56bcd9" alt="Hi There"/>
+    <img width="70%" src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=200&&section=header&text=Hi%20There&fontSize=85&fontAlign=50&fontAlignY=30&desc=I%20am%20pyheight.&descAlign=50&descSize=30&descAlignY=60&animation=twinkling&stroke=56bcd9" alt="Hi There"/>
 </p>
 
 <p align="center">
-<img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56bcd9&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;+Explore+and+connect+with+me." alt="Hello World">
+    <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56bcd9&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;+Explore+and+connect+with+me." alt="Hello World">
 </p>
 
 <p align="center">
@@ -52,7 +52,7 @@
 </table>
 
 <p align="center">
-    <img width="50%" src="https://count.getloli.com/get/@pyheight?theme=random" alt="Profile Views">
+    <img width="60%" src="https://count.getloli.com/get/@pyheight?theme=random" alt="Profile Views">
 </p>
 
 <p align="center">
@@ -71,5 +71,5 @@
 </p>
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&&section=footer&text=THE%20END&fontSize=85&fontAlign=50&fontAlignY=80&desc=Less%20is%20more.&descAlign=50&descSize=30&descAlignY=35&animation=twinkling&stroke=56bcd9" alt="The End"/>
+    <img width="70%" src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=200&&section=footer&text=THE%20END&fontSize=85&fontAlign=50&fontAlignY=80&desc=Less%20is%20more.&descAlign=50&descSize=30&descAlignY=35&animation=twinkling&stroke=56bcd9" alt="The End"/>
 </p>
