@@ -18,13 +18,13 @@
     <td>
       <img
         align="center"
-        src="https://github-readme-stats.vercel.app/api?username=pyheight&hide_border=true&show_icons=true&hide_title=true&text_color=9f9f9f&bg_color=00000000"
+        src="https://github-readme-stats.vercel.app/api?username=pyheight&hide_border=true&show_icons=true&hide_title=true&text_color=56bcd9&bg_color=00000000"
       />
     </td>
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pyheight&hide_border=true&show_icons=true&sideLabels=9f9f9f&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pyheight&hide_border=true&show_icons=true&sideLabels=56bcd9&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
       />
     </td>
   <tr>
