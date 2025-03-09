@@ -39,11 +39,17 @@
       />
     </td>
   </tr>
+  <tr>
+    <td colspan="3">
+      <img
+        align="center"
+        width="100%"
+        src="https://github-profile-trophy.vercel.app/?username=pyheight&no-bg=true&no-frame=true&theme=dark_lover&title=-MultiLanguage" 
+        alt="Profile Trophy"
+      />
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=pyheight&no-bg=true&no-frame=true&theme=dark_lover&title=-MultiLanguage" alt="Profile Trophy"/>
-</p>
 
 <p align="center">
     <a href="https://github.com/pyheight">
