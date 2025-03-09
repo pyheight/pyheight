@@ -32,7 +32,7 @@
       <img
         align="center"
         width="100%"
-        src="https://github-readme-activity-graph.vercel.app/graph?username=pyheight&bg_color=0c1014&color=2aa889&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true&theme=adaptive" alt="Activity Graph"/"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=pyheight&bg_color=00000000&color=4F8CC9&line=599cab&point=99d1ce&area_color=2aa889&area=true&hide_border=true" alt="Activity Graph"/"
       />
     </td>
   </tr>
