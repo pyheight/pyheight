@@ -52,6 +52,10 @@
 </table>
 
 <p align="center">
+    <img width="450" src="https://count.getloli.com/get/@pyheight?theme=random" alt="Profile Views">
+</p>
+
+<p align="center">
     <a href="https://github.com/pyheight">
         <img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github" alt="GitHub pyheight">
     </a>
@@ -64,10 +68,6 @@
     <a href="https://blog.csdn.net/2302_82330415">
         <img src="https://img.shields.io/badge/CSDN-Blog-orange?style=plastic&logo=blogger&logoColor=orange" alt="CSDN Blog">
     </a>
-</p>
-
-<p align="center">
-    <img width="450" src="https://count.getloli.com/get/@pyheight?theme=random" alt="Profile Views">
 </p>
 
 <p align="center">
