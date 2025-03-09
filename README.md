@@ -25,7 +25,7 @@
     <td>
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=pyheight&hide_border=true&show_icons=true&sideLabels=56bcd9&sideNums=9f9f9f&dates=9f9f9f&currStreakNum=9f9f9f&ring=4F8CC9&fire=4F8CC9&currStreakLabel=4F8CC9&background=00000000"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pyheight&hide_border=true&show_icons=true&sideLabels=56bcd9&sideNums=56bcd9&dates=56bcd9&currStreakNum=56bcd9&ring=4F8CC9&fire=4F8CC9&currStreakLabel=56bcd9&background=00000000"
         alt="Streak Stats"
       />
     </td>
