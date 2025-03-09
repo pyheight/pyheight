@@ -52,7 +52,7 @@
 </table>
 
 <p align="center">
-    <img width="450" src="https://count.getloli.com/get/@pyheight?theme=random" alt="Profile Views">
+    <img width="50%" src="https://count.getloli.com/get/@pyheight?theme=random" alt="Profile Views">
 </p>
 
 <p align="center">
