@@ -59,8 +59,8 @@
     <a href="https://github.com/pyheight">
         <img src="https://img.shields.io/badge/GitHub-pyheight-black?style=social&logo=github" alt="GitHub pyheight">
     </a>
-    <a href="mailto:276581780@qq.com">
-        <img src="https://img.shields.io/badge/Email-276581780%40qq.com-blue?style=social&logo=gmail" alt="Email 276581780@qq.com">
+    <a href="mailto:pyheight@qq.com">
+        <img src="https://img.shields.io/badge/Email-pyheight@qq.com-blue?style=social&logo=gmail" alt="Email pyheight@qq.com">
     </a>
     <a href="https://www.zhihu.com/people/height-8">
         <img src="https://img.shields.io/badge/Zhihu-Home-blue?style=plastic&logo=zhihu" alt="Zhihu Home">
