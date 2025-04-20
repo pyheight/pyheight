@@ -63,7 +63,7 @@
         <img src="https://img.shields.io/badge/Email-pyheight@qq.com-blue?style=social&logo=gmail" alt="Email pyheight@qq.com">
     </a>
     <a href="https://www.zhihu.com/people/height-8">
-        <img src="https://img.shields.io/badge/ZHIHU-Home-blue?style=plastic&logo=zhihu" alt="ZHIHU Home">
+        <img src="https://img.shields.io/badge/Zhihu-Home-blue?style=plastic&logo=zhihu" alt="Zhihu Home">
     </a>
     <a href="https://blog.csdn.net/2302_82330415">
         <img src="https://img.shields.io/badge/CSDN-Blog-orange?style=plastic&logo=blogger&logoColor=orange" alt="CSDN Blog">
