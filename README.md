@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Programming-enthusiasts-9b59b6?logo=dev.to&style=for-the-badge" alt="Programming enthusiasts">
+    <img src="https://img.shields.io/badge/Programming-enthusiasts-9b59b6?logo=dev.to&style=for-the-badge" alt="Programming Enthusiasts">
     <img src="https://img.shields.io/badge/Location-Guangdong-27ae60?logo=googlemaps&style=for-the-badge" alt="Location Guangdong">
     <img src="https://img.shields.io/badge/Python-Lover-ff69b4?logo=python&style=for-the-badge" alt="Python Lover">
     <img src="https://img.shields.io/badge/Tech-Curious-f1c40f?logo=rss&style=for-the-badge" alt="Tech Curious">
