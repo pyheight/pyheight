@@ -4,6 +4,7 @@
 
 <p align="center">
     <img align="center" width="75%" src="https://github-widgetbox.vercel.app/api/profile?username=pyheight&data=followers,repositories,stars,commits&theme=serika" alt="GitHub WidgetBox"/>
+
     <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56bcd9&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;+Explore+and+connect+with+me." alt="Hello World">
 </p>
 
