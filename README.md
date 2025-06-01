@@ -4,6 +4,8 @@
 
 <p align="center">
     <img width="700" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=56bcd9&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;+Explore+and+connect+with+me." alt="Hello World">
+
+   <img align="center" width="70%" src="https://github-widgetbox.vercel.app/api/profile?username=pyheight&data=followers,repositories,stars,commits&theme=default" alt="GitHub WidgetBox"/>
 </p>
 
 <p align="center">
@@ -14,16 +16,6 @@
 </p>
 
 <table width="100%">
-  <tr>
-    <td colspan="2">
-      <img
-        align="center"
-        width="100%"
-        src="https://github-widgetbox.vercel.app/api/profile?username=pyheight&data=followers,repositories,stars,commits&theme=default" 
-        alt="GitHub WidgetBox"
-      />
-    </td>
-  </tr>
   <tr>
     <td>
       <img
