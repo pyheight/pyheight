@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  <a href="#">    
+  <a href="#">
     <img src="https://img.shields.io/badge/Programming-enthusiasts-9b59b6?logo=dev.to&style=for-the-badge" alt="Programming Enthusiasts">
     <img src="https://img.shields.io/badge/Location-Guangdong-27ae60?logo=googlemaps&style=for-the-badge" alt="Location Guangdong">
     <img src="https://img.shields.io/badge/Python-Lover-ff69b4?logo=python&style=for-the-badge" alt="Python Lover">
     <img src="https://img.shields.io/badge/Tech-Curious-f1c40f?logo=rss&style=for-the-badge" alt="Tech Curious">
-  </a>    
+  </a>
 </p>
 
 <table width="100%">
@@ -59,21 +59,17 @@
   
   <tr>
     <td colspan="3">
-      <a href="#">
-        <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=pyheight&no-bg=true&no-frame=true&theme=dark_lover&title=-MultiLanguage" alt="Profile Trophy"/>
-      </a>
+      <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=pyheight&no-bg=true&no-frame=true&theme=dark_lover&title=-MultiLanguage" alt="Profile Trophy"/>
     </td>
   </tr>
   
   <tr>
     <td colspan="3">
-      <a href="#">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pyheight/pyheight/output/github-contribution-grid-snake-dark.svg">
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pyheight/pyheight/output/github-contribution-grid-snake.svg">
-          <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/pyheight/pyheight/output/github-contribution-grid-snake.svg">
-        </picture>
-      </a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pyheight/pyheight/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pyheight/pyheight/output/github-contribution-grid-snake.svg">
+        <img alt="Github Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/pyheight/pyheight/output/github-contribution-grid-snake.svg">
+      </picture>
     </td>
   </tr>
 </table>
